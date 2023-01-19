@@ -1,1 +1,2 @@
-# odin-recipes
+The Odin recipes website is a project about how to make your life easier by learning new recipes which will certainly come in handy
+in your cotidian life. Therefore, if you are interested into getting a master of cooking, you are on the right path!
