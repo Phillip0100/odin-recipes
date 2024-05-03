@@ -1,1 +1,1 @@
-# odin-recipes
+The Odin Recipes web project is part of The Odin Project mission of teaching people how to code so they can start their career as a web developer.
